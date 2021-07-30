@@ -11,5 +11,6 @@ Implementation is done in the `inc` folder.
     - Add the UI in `ui.mainGroup`
     - Add the UI for settings in `ui.settingsGroup`
 4. Implement methods in other files, including public stuff in `inc/api.jsxinc`
+5. Update the build tools: replace `Template` by the name of the script
 
-Use the [Duduf After Effects Framework at will](http://duaef.rxlab.io) but keep your script free!
+Use the [Duduf After Effects Framework](http://duaef.rxlab.io) at will but keep your script free!

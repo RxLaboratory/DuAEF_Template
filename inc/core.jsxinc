@@ -1,8 +1,6 @@
 #include "license.jsxinc"
 
-#include "../DuAEF/DuAEF.jsxinc"
-
-#include "api.jsxinc"
+#include "api_all.jsxinc"
 
 #include "init.jsxinc"
 

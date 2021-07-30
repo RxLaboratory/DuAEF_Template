@@ -10,6 +10,7 @@ DuESF.aboutURL = 'http://rxlaboratory.org';
 DuESF.docURL = 'http://duesf.rxlab.io';
 DuESF.scriptAbout = 'The Duduf ExtendScript Framework to help you develop Adobe Scripts';
 DuESF.companyURL = 'https://rxlaboratory.org';
+DuESF.rxVersionURL = 'http://version.rxlab.io'
 
 // Setup!
 DuScriptUI.setupScript( buildUI, thisObj );
